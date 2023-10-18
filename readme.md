@@ -19,13 +19,6 @@ About the repository: You will find the project in /eventplanner where you will 
 
 The project is runnable in GitPod. To run in GitPod use the button at the top of this file.
 
-## Authors
-
-August Skarsfjord Nyheim - [augustsn (gitlab)](https://gitlab.stud.idi.ntnu.no/augustsn)  
-Johannes  Landmark Meldal - [johanlm  (gitlab)](https://gitlab.stud.idi.ntnu.no/johanlm)  
-Torunn Torunn Mikkelsen Bårdstu - [torunnmb  (gitlab)](https://gitlab.stud.idi.ntnu.no/torunnmb)  
-William  Bie Andreassen - [williba  (gitlab)](https://gitlab.stud.idi.ntnu.no/williba)  
-
 ## Prerequisites
 
 ### Java
